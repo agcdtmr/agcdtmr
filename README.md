@@ -24,7 +24,7 @@
 7. Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
 8. Tech development affecting societal evolution
 
-## Projects
+## 🚧 Projects
 A mix of personal and freelance projects, so far
 
 Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made using themuse.com api, python, django, sqlite
