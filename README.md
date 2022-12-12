@@ -17,9 +17,10 @@
 2. Management: Planning, Organizing, Leading
 3. Community Building
 4. Reading
-5. Mental Health
-6. Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
-7. Tech development affecting societal evolution
+5. Culture and Diversity
+6. Mental Health
+7. Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
+8. Tech development affecting societal evolution
 
 ## Projects
 A mix of personal and freelance projects, so far
