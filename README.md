@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Anj
 - I have a Psychology Degree
 - I'm part of [100Devs Agency](https://github.com/100devs) community-taught Software Engineers community
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/anjcalleja/))
+- 📫 Reach our through: [LinkedIn](https://www.linkedin.com/anjcalleja/)
 - Hire me. Check my [CV](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## 👀 I’m passionate about:
