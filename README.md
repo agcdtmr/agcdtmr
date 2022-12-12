@@ -43,6 +43,12 @@ Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made 
 - [Powerfolio.nl](https://www.canva.com/link?target=https%3A%2F%2Fwww.powerfolio.nl&design=DAE_7ll36jo&accessRole=owner&linkSource=document) with [Techlabs](https://techlabs.org/) for their Data Science Track
 - Jobs Search Engine focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
 
+## Tech books to read
+
+[x] Invisible Women by Caroline Criado Perez
+[]
+
+
 ## Spare time
 
 - Learning languanges - Dutch (B2), German (A2), French (A1), Spanish (A1), Italian (A1)
