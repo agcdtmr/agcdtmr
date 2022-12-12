@@ -28,7 +28,7 @@
 ## 🚧 Projects
 A mix of personal and freelance projects, so far
 
-Ongoing project: [Job search engine for women](https://github.com/agcdtmr/didactic-journey) made using themuse.com api, python, django, sqlite
+Ongoing project: [Job search engine for women in tech](https://github.com/agcdtmr/didactic-journey) made using themuse.com api, python, django, sqlite
 
 - [Christmas Travel](https://github.com/agcdtmr/christmas-travel) Mobile App - made with React Native and UI libraries
 - [Powerfolio.nl](https://www.canva.com/link?target=https%3A%2F%2Fwww.powerfolio.nl&design=DAE_7ll36jo&accessRole=owner&linkSource=document) with [Techlabs](https://techlabs.org/) for their Data Science Track
