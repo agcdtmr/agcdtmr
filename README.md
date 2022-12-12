@@ -45,8 +45,14 @@ Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made 
 
 ## Tech books to read
 
-[x] Invisible Women by Caroline Criado Perez
-[]
+✅ Invisible Women by Caroline Criado Perez
+- She’s In CTRL by Anne-Marie Imafidon
+- Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators by Susanne Tedrick
+- Brotopia: Breaking Up the Boys’ Club of Silicon Valley by Emily Chang
+- Women in Tech: Take Your Career to the Next Level with Practical Advice and Inspiring Stories by Tarah Wheeler Van Vlack
+- Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic
+- Technically Wrong: Sexist Apps, Biased Algorithms and other Threats of Toxic Tech by Sara Wachter – Boettcher
+- Life in Code: A Personal History of Technology by Ellen Ullman
 
 
 ## Spare time
