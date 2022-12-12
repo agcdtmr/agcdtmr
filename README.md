@@ -4,7 +4,7 @@
 
 - Bachelor of Science in Psychology
 - Part of [100Devs Agency](https://leonnoel.com/100devs/) community-taught Software Engineers
-- Finished an intense 3-month Software Engineering course at [CFG](https://codefirstgirls.com/) with merit
+- Finished an intensive 3-month Software Engineering course at [CFG](https://codefirstgirls.com/) with merit
 - Exploring [Data Science](https://techlabs.org/dataScience/) with Techlabs
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
 - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr)
