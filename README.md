@@ -17,8 +17,20 @@
 5. Mental Health
 6. Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
 
-## 💞️ I’m looking to collaborate on 
+## Projects
+A mix of personal and freelance projects, so far
 
+Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made using themuse.com api, python, django
+
+- [Christmas Travel](https://github.com/agcdtmr/christmas-travel) Mobile App - made with React Native and UI libraries
+- [Powerfolio.nl](https://www.canva.com/link?target=https%3A%2F%2Fwww.powerfolio.nl&design=DAE_7ll36jo&accessRole=owner&linkSource=document) with [Techlabs](https://techlabs.org/) for their Data Science Track
+- [Jobs Search Engine](https://github.com/agcdtmr/cfg_group_project) focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
+
+## 💞️ I’m looking to collaborate on
+
+- Financial Tech
+- Health Tech
+- Women wearables Tech
 - surprise me!
 
 ## 🌱 I’m currently interested and learning ...
@@ -33,15 +45,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-## Projects
-A mix of personal and freelance projects, so far
-
-Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made using themuse.com api, python, django
-
-- [Christmas Travel](https://github.com/agcdtmr/christmas-travel) Mobile App - made with React Native and UI libraries
-- [Powerfolio.nl](https://www.canva.com/link?target=https%3A%2F%2Fwww.powerfolio.nl&design=DAE_7ll36jo&accessRole=owner&linkSource=document) with [Techlabs](https://techlabs.org/) for their Data Science Track
-- [Jobs Search Engine](https://github.com/agcdtmr/cfg_group_project) focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
 
 ## Tech books to read
 
