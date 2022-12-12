@@ -2,10 +2,10 @@
 
 ## 👩‍💻 About Me
 
-- 👋 Hi, I’m Anj
-- I have a Psychology Degree
+- Bachelor of Science in Psychology
 - I'm part of [100Devs Agency](https://github.com/100devs) community-taught Software Engineers community
-- 📫 Reach our through: [LinkedIn](https://www.linkedin.com/anjcalleja/)
+- Finished Software Engineering course at [CFG](https://codefirstgirls.com/)
+- 📫 Reach out through: [LinkedIn](https://www.linkedin.com/anjcalleja/)
 - Hire me. Check my [CV](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## 👀 I’m passionate about:
@@ -36,6 +36,7 @@ Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made 
 ## 🌱 I’m currently interested and learning ...
 #### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -44,6 +45,8 @@ Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;/>
 </div>
 
 ## Tech books to read
