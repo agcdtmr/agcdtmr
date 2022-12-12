@@ -3,7 +3,7 @@
 ## 👩‍💻 About Me
 
 - Bachelor of Science in Psychology
-- I'm part of [100Devs Agency](https://github.com/100devs) community-taught Software Engineers community
+- Part of [100Devs Agency](https://github.com/100devs) community-taught Software Engineers community
 - Finished an intense 3-month Software Engineering course at [CFG](https://codefirstgirls.com/) with merit
 - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr)
 - 📫 Reach out through: [LinkedIn](https://www.linkedin.com/anjcalleja/)
