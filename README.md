@@ -27,12 +27,16 @@
 ## 🚧 Projects
 A mix of personal and freelance projects, so far
 
-Ongoing project: [Job search engine for women in tech](https://github.com/agcdtmr/didactic-journey) made using themuse.com api, python, django, sqlite
-
 - [Christmas Travel](https://github.com/agcdtmr/christmas-travel) Mobile App - made with React Native and UI libraries
 - [Powerfolio.nl](https://www.canva.com/link?target=https%3A%2F%2Fwww.powerfolio.nl&design=DAE_7ll36jo&accessRole=owner&linkSource=document) with [Techlabs](https://techlabs.org/) for their Data Science Track
 - [Jobs Search Engine](https://github.com/agcdtmr/cfg_group_project) focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
+
+Ongoing project: 
+
+- [Job search engine for women in tech](https://github.com/agcdtmr/didactic-journey) tools: themuse.com api, python, django, sqlite
+- [Tracker App](https://github.com/agcdtmr/cfg-tracker-mobile-app) tools: react native, maps library and other ui library like paper, vector icons
 - Mini [Python](https://github.com/agcdtmr/Python-Projects) projects
+
 
 ## 👀 I’m looking to collaborate on
 
