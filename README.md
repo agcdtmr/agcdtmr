@@ -19,6 +19,7 @@
 4. Reading
 5. Mental Health
 6. Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
+7. Tech development affecting societal evolution
 
 ## Projects
 A mix of personal and freelance projects, so far
