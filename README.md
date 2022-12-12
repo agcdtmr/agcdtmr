@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 👀 I’m passionate about:
+## ❤️‍🔥 I’m passionate about:
 
 1. Learning
 2. Management: Planning, Organizing, Leading
@@ -33,7 +33,7 @@ Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made 
 - [Powerfolio.nl](https://www.canva.com/link?target=https%3A%2F%2Fwww.powerfolio.nl&design=DAE_7ll36jo&accessRole=owner&linkSource=document) with [Techlabs](https://techlabs.org/) for their Data Science Track
 - [Jobs Search Engine](https://github.com/agcdtmr/cfg_group_project) focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
 
-## 💞️ I’m looking to collaborate on
+## 👀 I’m looking to collaborate on
 
 - Financial Tech
 - Health Tech
@@ -57,7 +57,7 @@ Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
-## Tech books to read
+## 📚 Tech books to read
 
 - ✅ Invisible Women by Caroline Criado Perez
 - 📖 Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators by Susanne Tedrick
@@ -69,7 +69,7 @@ Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made 
 - Life in Code: A Personal History of Technology by Ellen Ullman
 
 
-## Spare time
+## ⌛ Spare time
 
 - Learning languanges - Dutch (B2), German (A2), French (A1), Spanish (A1), Italian (A1)
 - [Yugto Bookclub](https://www.instagram.com/yugto.bookclub)
