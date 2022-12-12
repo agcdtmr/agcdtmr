@@ -4,7 +4,7 @@
 
 - Bachelor of Science in Psychology
 - I'm part of [100Devs Agency](https://github.com/100devs) community-taught Software Engineers community
-- Finished Software Engineering course at [CFG](https://codefirstgirls.com/)
+- Finished an intense 3-month Software Engineering course at [CFG](https://codefirstgirls.com/) with merit
 - 📫 Reach out through: [LinkedIn](https://www.linkedin.com/anjcalleja/)
 - Hire me. Check my [CV](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
