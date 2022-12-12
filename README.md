@@ -72,6 +72,10 @@ Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made 
 - Learning languanges - Dutch (B2), German (A2), French (A1), Spanish (A1), Italian (A1)
 - [Yugto Bookclub](https://www.instagram.com/yugto.bookclub)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 agcdtmr/agcdtmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
