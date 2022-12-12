@@ -39,9 +39,9 @@ A mix of personal and freelance projects, so far
 
 Ongoing project: [Job Search](https://github.com/agcdtmr/didactic-journey) made using themuse.com api, python, django
 
-- Christmas Travel Mobile App - made with React Native and UI libraries
+- [Christmas Travel](https://github.com/agcdtmr/christmas-travel) Mobile App - made with React Native and UI libraries
 - [Powerfolio.nl](https://www.canva.com/link?target=https%3A%2F%2Fwww.powerfolio.nl&design=DAE_7ll36jo&accessRole=owner&linkSource=document) with [Techlabs](https://techlabs.org/) for their Data Science Track
-- Jobs Search Engine focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
+- [Jobs Search Engine](https://github.com/agcdtmr/cfg_group_project) focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
 
 ## Tech books to read
 
