@@ -13,16 +13,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## ❤️‍🔥 I’m passionate about:
+## ❤️‍🔥 I’m passionate about (in no particular order:
 
-1. Learning
-2. Management: Planning, Organizing, Leading
-3. Community Building
-4. Reading
-5. Culture and Diversity
-6. Mental Health
-7. Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
-8. Tech development affecting societal evolution
+- Learning
+- Management: Planning, Organizing, Leading
+- Community Building
+- Reading
+- Culture and Diversity
+- Mental Health
+- Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
+- Tech development affecting societal evolution
 
 ## 🚧 Projects
 A mix of personal and freelance projects, so far
