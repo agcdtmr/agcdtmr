@@ -33,7 +33,7 @@ Ongoing project: [Job search engine for women](https://github.com/agcdtmr/didact
 - [Christmas Travel](https://github.com/agcdtmr/christmas-travel) Mobile App - made with React Native and UI libraries
 - [Powerfolio.nl](https://www.canva.com/link?target=https%3A%2F%2Fwww.powerfolio.nl&design=DAE_7ll36jo&accessRole=owner&linkSource=document) with [Techlabs](https://techlabs.org/) for their Data Science Track
 - [Jobs Search Engine](https://github.com/agcdtmr/cfg_group_project) focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
-- mini [Python](https://github.com/agcdtmr/Python-Projects) projects
+- Mini [Python](https://github.com/agcdtmr/Python-Projects) projects
 
 ## 👀 I’m looking to collaborate on
 
