@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## ❤️‍🔥 I’m passionate about (in no particular order:
+## ❤️‍🔥 I’m passionate about (in no particular order):
 
 - Learning
 - Management: Planning, Organizing, Leading
