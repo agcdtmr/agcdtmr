@@ -72,6 +72,7 @@ Ongoing:
 - Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic
 - Technically Wrong: Sexist Apps, Biased Algorithms and other Threats of Toxic Tech by Sara Wachter – Boettcher
 - Life in Code: A Personal History of Technology by Ellen Ullman
+- De IT girl by Chantal Schinkels (Nederlands)
 
 
 ## ⌛ Spare time
