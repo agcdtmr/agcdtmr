@@ -37,14 +37,6 @@ Ongoing:
 - [Tracker App](https://github.com/agcdtmr/cfg-tracker-mobile-app) tools: react native, maps library and other ui library like paper, vector icons
 - Mini [Python](https://github.com/agcdtmr/Python-Projects) projects
 
-
-## 👀 I’m looking to collaborate on
-
-- Financial Tech
-- Health Tech
-- Women wearables Tech
-- surprise me!
-
 ## 🌱 I’m currently interested and learning ...
 #### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -61,6 +53,14 @@ Ongoing:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
+
+# 👀 I’m looking to collaborate on
+
+- Financial Tech
+- Health Tech
+- Women wearables Tech
+- Cybersecurity
+- surprise me!
 
 ## 📚 Tech books to read
 
