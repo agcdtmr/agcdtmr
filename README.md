@@ -56,6 +56,9 @@ Ongoing:
 
 #### 👀 I’m looking to collaborate on
 
+- Slow fashion
+- Climate change innovations
+- Sustainability
 - Financial Tech
 - Health Tech
 - Women wearables Tech
