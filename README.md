@@ -69,6 +69,7 @@ Ongoing:
 
 - ✅ Invisible Women by Caroline Criado Perez
 - 📖 Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators by Susanne Tedrick
+- 📖 Automating inequality by Virginia Eubanks
 - She’s In CTRL by Anne-Marie Imafidon
 - Brotopia: Breaking Up the Boys’ Club of Silicon Valley by Emily Chang
 - Women in Tech: Take Your Career to the Next Level with Practical Advice and Inspiring Stories by Tarah Wheeler Van Vlack
