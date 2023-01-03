@@ -8,6 +8,7 @@
 - Exploring [Data Science](https://techlabs.org/dataScience/) with Techlabs
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
 - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr)
+- New at [LeetCode 75 Study Plan](https://leetcode.com/anjdeitmer/)
 - Let's connect on [LinkedIn](https://www.linkedin.com/anjcalleja/)
 - Work with me. Reach out [here](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
