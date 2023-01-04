@@ -78,6 +78,7 @@ Ongoing:
 - Life in Code: A Personal History of Technology by Ellen Ullman
 - De IT girl by Chantal Schinkels (Nederlands)
 - Automating inequality by Virginia Eubanks
+- Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
 
 
 ## ⌛ Spare time
