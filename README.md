@@ -72,6 +72,7 @@ Ongoing:
 - ✅ Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators by Susanne Tedrick
 - 📖 She’s In CTRL by Anne-Marie Imafidon
 - Girls Just Wanna Have Funds: A Feminist's Guide to Investing by Camilla Falkenberg, Emma Due Bitz and Anna-Sophie Hartvigsen
+- Financial Feminism by Jessica Robinson
 - Brotopia: Breaking Up the Boys’ Club of Silicon Valley by Emily Chang
 - Women in Tech: Take Your Career to the Next Level with Practical Advice and Inspiring Stories by Tarah Wheeler Van Vlack
 - Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic
