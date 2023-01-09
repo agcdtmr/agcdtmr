@@ -85,7 +85,7 @@ Ongoing:
 
 ## ⌛ Spare time
 
-- Learning languanges - Dutch (B2), German (A2), French (A1), Spanish (A1), Italian (A1)
+- Learning languanges - Dutch (B2), German (A2), French (A1), Spanish (A1), Italian (A1), Korean (A1), Bisaya (A1)
 - [Yugto Bookclub](https://www.instagram.com/yugto.bookclub)
 
 
