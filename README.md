@@ -5,7 +5,7 @@
 - University Degree: Bachelor of Science in Psychology
 - Part of [100Devs Agency](https://leonnoel.com/100devs/) community-taught Software Engineers
 - Finished an intensive 4-month [Software Engineering](https://github.com/agcdtmr/cfg_group_project/blob/main/Certificate.pdf) course and [React Native Mobile Development](https://github.com/agcdtmr/christmas-travel/blob/main/Certificate.pdf) at [CFG](https://codefirstgirls.com/) with merit
-- Exploring [Data Science](https://techlabs.org/dataScience/) with Techlabs
+- Exploring Data with [Techlabs](https://techlabs.org/dataScience/) and [Techionista](https://github.com/agcdtmr/data-science/blob/main/Certificate-ML-AI.pdf)
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
 - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr)
 - New at [LeetCode 75 Study Plan](https://leetcode.com/anjdeitmer/)
