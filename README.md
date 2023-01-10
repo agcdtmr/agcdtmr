@@ -71,6 +71,7 @@ Ongoing:
 - ✅ Invisible Women by Caroline Criado Perez
 - ✅ Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators by Susanne Tedrick
 - 📖 The Programmer's Brain: What every programmer needs to know about cognition by Felienne Hermans with [Fronteers NL](https://www.meetup.com/nl-NL/fronteers-nl/?_cookie-check=MUQTlWm66Q0KGDIN)
+- Feminist Fight Club: A Survival Manual for a Sexist Workplace by Jessica Bennett
 - She’s In CTRL by Anne-Marie Imafidon
 - Girls Just Wanna Have Funds: A Feminist's Guide to Investing by Camilla Falkenberg, Emma Due Bitz and Anna-Sophie Hartvigsen
 - Financial Feminism by Jessica Robinson
