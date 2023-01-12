@@ -85,6 +85,7 @@ Ongoing:
 - De IT girl by Chantal Schinkels (Nederlands)
 - Automating inequality by Virginia Eubanks
 - Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
+- [What's Going On in This Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph)
 
 
 ## ⌛ Spare time
