@@ -12,7 +12,7 @@
 - Let's connect on [LinkedIn](https://www.linkedin.com/anjcalleja/)
 - Work with me. Reach out [here](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## ❤️‍🔥 I’m passionate about (in no particular order):
 
