@@ -17,6 +17,7 @@
 ## ❤️‍🔥 I’m passionate about (in no particular order):
 
 - Learning
+- Psychology 
 - Management: Planning, Organizing, Leading
 - Community Building
 - Reading
@@ -86,6 +87,7 @@ Ongoing:
 - Automating inequality by Virginia Eubanks
 - Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
 - [What's Going On in This Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph)
+- Don’t Fix Women by Joy Burnford
 
 
 ## ⌛ Spare time
