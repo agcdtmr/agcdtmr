@@ -14,18 +14,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## ❤️‍🔥 I’m passionate about (in no particular order):
-
-- Learning
-- Psychology 
-- Management: Planning, Organizing, Leading
-- Community Building
-- Reading
-- Culture and Diversity
-- Mental Health
-- Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
-- Tech development affecting societal evolution
-
 ## 🚧 Projects
 A mix of personal and freelance projects, so far
 
@@ -38,6 +26,21 @@ Ongoing:
 - [Job search engine for women in tech:](https://github.com/agcdtmr/didactic-journey) tools- themuse.com api, python, django, sqlite
 <!-- - [Tracker App:](https://github.com/agcdtmr/cfg-tracker-mobile-app) tools- react native, maps library and other ui library like paper, vector icons -->
 <!-- - Mini [Python](https://github.com/agcdtmr/Python-Projects) projects -->
+
+
+## ❤️‍🔥 I’m passionate about (in no particular order):
+
+- Learning
+- Psychology 
+- Management: Planning, Organizing, Leading
+- Community Building
+- Reading
+- Culture and Diversity
+- Mental Health
+- Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
+- Tech development affecting societal evolution
+
+
 
 ## 🌱 I’m currently interested and learning ...
 #### :hammer_and_wrench: Languages and Tools :
