@@ -39,7 +39,7 @@ A mix of personal and freelance projects, so far
 - Management: Planning, Organizing, Leading
 - Community Building
 - Reading
-- Culture and Diversity
+- Diversity, Equity, and Inclusion
 - Mental Health
 - Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
 - Tech development affecting societal evolution
