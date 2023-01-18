@@ -18,7 +18,7 @@
 
 Ongoing: 
 
-- [Job search engine for women in tech:](https://github.com/agcdtmr/didactic-journey) tools- themuse.com api, python, django, sqlite
+- [Women in tech InSearch:](https://github.com/agcdtmr/didactic-journey) tools- themuse.com api, python, django, sqlite
 - [CO2 Emission related project](https://github.com/users/agcdtmr/projects/4) collab with [Daniela](https://github.com/dadaniela)
 <!-- - [Tracker App:](https://github.com/agcdtmr/cfg-tracker-mobile-app) tools- react native, maps library and other ui library like paper, vector icons -->
 <!-- - Mini [Python](https://github.com/agcdtmr/Python-Projects) projects -->
