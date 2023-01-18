@@ -33,13 +33,12 @@ A mix of personal and freelance projects, so far
 
 
 ## ❤️‍🔥 I’m passionate about (in no particular order):
-
+- Diversity, Equity, and Inclusion
 - Learning
 - Psychology 
 - Management: Planning, Organizing, Leading
 - Community Building
 - Reading
-- Diversity, Equity, and Inclusion
 - Mental Health
 - Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
 - Tech development affecting societal evolution
