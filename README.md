@@ -79,7 +79,7 @@ A mix of personal and freelance projects, so far
 - ✅ Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators by Susanne Tedrick
 - ✅ How To Stand Up To A Dictator by Maria Ressa | with [Yugto Bookclub](https://www.instagram.com/yugto.bookclub)
 - 📖 The Programmer's Brain: What every programmer needs to know about cognition by Felienne Hermans | with [Fronteers NL](https://www.meetup.com/nl-NL/fronteers-nl/?_cookie-check=MUQTlWm66Q0KGDIN)
-- 📖 Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi | with [The UX Bookclub](https://www.meetup.com/nl-NL/theuxbookclub/events/289765717/)
+- Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi | with [The UX Bookclub](https://www.meetup.com/nl-NL/theuxbookclub/events/289765717/)
 - Feminist Fight Club: A Survival Manual for a Sexist Workplace by Jessica Bennett
 - Finding The Mother Tree: Uncovering The Wisdom And Intelligence Of The Forest by Suzanne Simard
 - Data Feminism by Catherine D'Ignazio and Lauren Klein
