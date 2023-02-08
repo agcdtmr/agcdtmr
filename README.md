@@ -4,7 +4,7 @@
 
 - Bachelor of Science in Psychology
 - Finished with merit, an intensive 4-month [Software Engineering](https://github.com/agcdtmr/cfg_group_project/blob/main/Certificate%2012.04.23.pdf) and [React Native Mobile Development](https://github.com/agcdtmr/christmas-travel/blob/main/Certificate.pdf) course at [CFG](https://codefirstgirls.com/) 
-- Part of [100Devs Agency](https://leonnoel.com/100devs/) community-taught Full-Stack Software Engineers
+- Part of [100Devs Agency](https://leonnoel.com/100devs/) (community-taught) Full-Stack Software Engineers
 - Exploring Data with [DataTalksClub](https://datatalks.club/), [Techlabs](https://techlabs.org/dataScience/) and [Techionista](https://github.com/agcdtmr/data-science/blob/main/Certificate-ML-AI.pdf)
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
 - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr): "A kata a day keeps the imposter syndrome away." 
