@@ -40,7 +40,7 @@ A mix of personal and freelance projects, so far
 - Community Building
 - Reading
 - Mental Health
-- Data (especially about how datas of women are currently used, not used or ‘biasedly’ used)
+- Data (especially about how datas of women are currently used, not at all used or ‘biasedly’ used)
 - Tech development affecting societal evolution
 
 
