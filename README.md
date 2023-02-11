@@ -28,8 +28,7 @@ A mix of personal and freelance projects, so far
 
 - [Christmas Travel](https://github.com/agcdtmr/christmas-travel) Mobile App - made with React Native and UI libraries
 - [Jobs Search Engine](https://github.com/agcdtmr/cfg_group_project) focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
-
-
+- [More projects here](https://github.com/agcdtmr?tab=repositories)
 
 
 ## ❤️‍🔥 I’m passionate about (in no particular order):
