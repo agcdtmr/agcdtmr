@@ -101,7 +101,8 @@ A mix of personal and freelance projects, so far
 
 - Learning culture and languanges - Dutch (B2), German (A2), French (A1), Spanish (A1), Italian (A1), Korean (A1), Bisaya (A1)
 - Journalling my [#365DaysOfCode](https://github.com/agcdtmr/365daysofcode) Roadmap
-
+- Adding decks to my flashcards and active recalling
+- Learning how to learn
 
 <!---
 agcdtmr/agcdtmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
