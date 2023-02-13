@@ -21,6 +21,7 @@ Ongoing:
 - [100 hour project](https://github.com/agcdtmr/100hr-project-others)
 - [Job search web app](https://github.com/agcdtmr/didactic-journey) tools- themuse.com api, python, django, sqlite
 - [Unpaid work calculator website](https://github.com/users/agcdtmr/projects/4) collab with [Daniela](https://github.com/dadaniela) using html, vanilla javascript and css
+- [Anki-inspired Django App](https://github.com/agcdtmr/flashcard-django-app)
 <!-- - [Tracker App:](https://github.com/agcdtmr/cfg-tracker-mobile-app) tools- react native, maps library and other ui library like paper, vector icons -->
 <!-- - Mini [Python](https://github.com/agcdtmr/Python-Projects) projects -->
 
