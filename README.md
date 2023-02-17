@@ -20,13 +20,15 @@ Ongoing:
 
 - [100-hour project](https://github.com/agcdtmr/100hr-project-others)
 - [Unpaid work calculator website](https://github.com/users/agcdtmr/projects/4) collab with [Daniela](https://github.com/dadaniela) using html, vanilla javascript and css
-<!--  - [Anki-inspired Django App](https://github.com/agcdtmr/flashcard-django-app) -->
 <!-- - [Job search web app](https://github.com/agcdtmr/didactic-journey) tools- themuse.com api, python, django, sqlite -->
 <!-- - [Tracker App:](https://github.com/agcdtmr/cfg-tracker-mobile-app) tools- react native, maps library and other ui library like paper, vector icons -->
 <!-- - Mini [Python](https://github.com/agcdtmr/Python-Projects) projects -->
 
 A mix of personal and freelance projects, so far
 
+
+- [Spotify Data Analysis](https://github.com/agcdtmr/spotify-data)
+- [Anki-inspired Django App](https://github.com/agcdtmr/flashcard-django-app)
 - [Christmas Travel](https://github.com/agcdtmr/christmas-travel) Mobile App - made with React Native and UI libraries
 - [Jobs Search Engine](https://github.com/agcdtmr/cfg_group_project) focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
 - [More projects here](https://github.com/agcdtmr?tab=repositories)
