@@ -28,7 +28,7 @@ A mix of personal and freelance projects, so far
 
 
 - [Spotify Data Analysis](https://github.com/agcdtmr/spotify-data)
-- [Anki-inspired Django App](https://github.com/agcdtmr/flashcard-django-app)
+- [Anki-inspired Django App](https://github.com/agcdtmr/anki-inspired-app)
 - [Christmas Travel](https://github.com/agcdtmr/christmas-travel) Mobile App - made with React Native and UI libraries
 - [Jobs Search Engine](https://github.com/agcdtmr/cfg_group_project) focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
 - [More projects here](https://github.com/agcdtmr?tab=repositories)
