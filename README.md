@@ -19,7 +19,7 @@
 Ongoing: 
 
 - [100-hour project](https://github.com/agcdtmr/100hr-project-others)
-- [Unpaid work calculator website](https://github.com/users/agcdtmr/projects/4) collab with [Daniela](https://github.com/dadaniela) using html, vanilla javascript and css
+- [Unpaid work calculator website](https://github.com/agcdtmr/fictional-umbrella) collab with [Daniela](https://github.com/dadaniela) using html, vanilla javascript and css
 <!-- - [Job search web app](https://github.com/agcdtmr/didactic-journey) tools- themuse.com api, python, django, sqlite -->
 <!-- - [Tracker App:](https://github.com/agcdtmr/cfg-tracker-mobile-app) tools- react native, maps library and other ui library like paper, vector icons -->
 <!-- - Mini [Python](https://github.com/agcdtmr/Python-Projects) projects -->
