@@ -7,6 +7,7 @@
 - Part of [100Devs Agency](https://leonnoel.com/100devs/) (community-taught) Full-Stack Software Engineers
 - Exploring [Data](https://github.com/agcdtmr/data)
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
+- Recommended online course: [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
 - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr): "A kata a day keeps the imposter syndrome away." 
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/)
 - Work with me. Reach out [here](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
@@ -107,8 +108,6 @@ A mix of personal and freelance projects, so far
 - Learning culture and languanges - Dutch (B2), German (A2), French (A1), Spanish (A1), Italian (A1), Korean (A1), Bisaya (A1)
 - Journalling my [#365DaysOfCode](https://github.com/agcdtmr/365daysofcode) Roadmap
 - Adding decks to my Anki and active recalling
-- Learning how to learn
-
 <!---
 agcdtmr/agcdtmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
