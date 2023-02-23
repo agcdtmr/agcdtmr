@@ -3,6 +3,7 @@
 ## 👩‍💻 About Me
 
 - Bachelor of Science in Psychology
+- [Lifelong Learner](https://www.notion.so/agcdtmr/Lifelong-Learner-e0b374ab9f9b4c0180a445c505ee88b6?pvs=4)
 - Finished with merit, an intensive [Software Engineering](https://github.com/agcdtmr/cfg_group_project/blob/main/Certificate%2012.04.23.pdf) and [React Native Mobile Development](https://github.com/agcdtmr/christmas-travel/blob/main/Certificate.pdf) course at [CFG](https://codefirstgirls.com/) 
 - Part of [100Devs Agency](https://leonnoel.com/100devs/) (community-taught) Full-Stack Software Engineers
 - Exploring [Data](https://github.com/agcdtmr/data)
