@@ -86,6 +86,7 @@ A mix of personal and freelance projects, so far
 - ✅ How To Stand Up To A Dictator by Maria Ressa | with [Yugto Bookclub](https://www.instagram.com/yugto.bookclub)
 - 📖 The Programmer's Brain: What every programmer needs to know about cognition by Felienne Hermans | with [Fronteers NL](https://www.meetup.com/nl-NL/fronteers-nl/?_cookie-check=MUQTlWm66Q0KGDIN)
 - Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi | with [The UX Bookclub](https://www.meetup.com/nl-NL/theuxbookclub/events/289765717/)
+- Broad Band: The Untold Story of the Women Who Made the Internet by Claire L. Evans | with [Bookclub in London](https://www.meetup.com/nl-NL/books-reading-discussions-that/events/291720323/)
 - Feminist Fight Club: A Survival Manual for a Sexist Workplace by Jessica Bennett
 - Finding The Mother Tree: Uncovering The Wisdom And Intelligence Of The Forest by Suzanne Simard
 - Data Feminism by Catherine D'Ignazio and Lauren Klein
