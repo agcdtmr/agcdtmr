@@ -52,7 +52,7 @@ A mix of personal and freelance projects, so far
 
 
 ## 🌱 I’m currently interested and learning ...
-#### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -68,8 +68,9 @@ A mix of personal and freelance projects, so far
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
-#### 👀 I’m looking to collaborate on
+#### 👀 I’m looking to collaborate on:
 
+- Cloud
 - Slow fashion
 - Climate change innovations
 - Sustainability
