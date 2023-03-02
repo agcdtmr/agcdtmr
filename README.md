@@ -83,7 +83,7 @@ A mix of personal and freelance projects, so far
 
 ## ⌛ Spare time
 
-- Learning culture and languanges - Dutch (B2), German (A2), French (A1), Spanish (A1), Italian (A1), Korean (A1), Bisaya (A1)
+- Learning culture and languanges
 - Journalling my [#365DaysOfCode](https://github.com/agcdtmr/365daysofcode) Roadmap
 - Adding decks to my Anki and active recalling
 <!---
