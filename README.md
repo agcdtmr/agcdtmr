@@ -11,9 +11,9 @@
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
 - Recommended online course: [Learning how to learn by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn)
 - [My tech books to read](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
-- Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr): "A kata a day keeps the imposter syndrome away." 
+<!-- - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr): "A kata a day keeps the imposter syndrome away."  -->
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/)
-- Work with me. Reach out [here](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<!-- - Work with me. Reach out [here](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
 <!-- - Making a lot of mistakes [LeetCode](https://leetcode.com/anjdeitmer/) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -36,7 +36,7 @@ A mix of personal and freelance projects, so far
 - [More projects here](https://github.com/agcdtmr?tab=repositories)
 
 
-## ❤️‍🔥 I’m passionate about (in no particular order):
+<!-- ## ❤️‍🔥 I’m passionate about (in no particular order):
 - Diversity, Equity, and Inclusion
 - Learning
 - Psychology 
@@ -45,11 +45,11 @@ A mix of personal and freelance projects, so far
 - Reading
 - Mental Health
 - Data (especially about how datas of women are currently used, not at all used or ‘biasedly’ used)
-- Tech development affecting societal evolution
+- Tech development affecting societal evolution -->
 
 
 
-## 🌱 I’m currently interested and learning ...
+<!-- ## 🌱 I’m currently interested and learning ...
 #### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -64,9 +64,9 @@ A mix of personal and freelance projects, so far
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-</div>
+</div> -->
 
-#### 👀 I’m looking to collaborate on:
+<!-- #### 👀 I’m looking to collaborate on:
 
 - Cloud
 - Slow fashion
@@ -76,13 +76,13 @@ A mix of personal and freelance projects, so far
 - Health Tech
 - Women wearables Tech
 - Cybersecurity
-- surprise me!
+- surprise me! -->
 
-## ⌛ Spare time
+<!-- ## ⌛ Spare time
 
 - Learning culture and languanges
 - Journalling my [#365DaysOfCode](https://github.com/agcdtmr/365daysofcode) Roadmap
-- Adding decks to my Anki and active recalling
+- Adding decks to my Anki and active recalling -->
 <!---
 agcdtmr/agcdtmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
