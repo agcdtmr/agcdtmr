@@ -1,6 +1,6 @@
 # Hallo! Kumusta?
 
-## 👩‍💻 About Me
+## 👩‍👩🏻‍💻 About Me
 
 - Bachelor of Science in Psychology
 - [Lifelong Learner](https://www.notion.so/agcdtmr/Lifelong-Learner-e0b374ab9f9b4c0180a445c505ee88b6?pvs=4)
