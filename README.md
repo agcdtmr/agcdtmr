@@ -4,13 +4,13 @@
 
 - Bachelor of Science in Psychology
 - [Lifelong Learner](https://www.notion.so/agcdtmr/Lifelong-Learner-e0b374ab9f9b4c0180a445c505ee88b6?pvs=4)
+- [My tech books to read](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - [Reading The World](https://agcdtmr.notion.site/My-Reading-Challenge-My-Favourite-Bookclubs-from-all-over-the-world-210f324ee10542738605c6eac6486c2c)
 - Finished with merit for an intensive [Software Engineering](https://github.com/agcdtmr/cfg_group_project/blob/main/Certificate%2012.04.23.pdf) and [React Native Mobile Development](https://github.com/agcdtmr/christmas-travel/blob/main/Certificate.pdf) course at [CFG](https://codefirstgirls.com/) 
 - Part of [100Devs Agency](https://leonnoel.com/100devs/) (community-taught) Full-Stack Software Engineers
 - Exploring [Data](https://github.com/agcdtmr/data)
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
 - Recommended online course: [Learning how to learn by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn)
-- [My tech books to read](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/)
 <!-- -  - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr): "A kata a day keeps the imposter syndrome away."  -->
 <!-- - Work with me. Reach out [here](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
