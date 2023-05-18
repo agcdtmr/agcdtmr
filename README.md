@@ -2,11 +2,12 @@
 
 ## 👩🏻‍💻 About Me
 
+- [Cloud Engineer Trainee](https://github.com/agcdtmr/techgrounds-anj-dtmr)
 - Bachelor of Science in Psychology
 - [Lifelong Learner](https://www.notion.so/agcdtmr/Lifelong-Learner-e0b374ab9f9b4c0180a445c505ee88b6?pvs=4)
 - [My tech books to read](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - [Reading The World](https://agcdtmr.notion.site/My-Reading-Challenge-My-Favourite-Bookclubs-from-all-over-the-world-210f324ee10542738605c6eac6486c2c)
-- Finished with merit for an intensive [Software Engineering](https://github.com/agcdtmr/cfg_group_project/blob/main/Certificate%2012.04.23.pdf) and [React Native Mobile Development](https://github.com/agcdtmr/christmas-travel/blob/main/Certificate.pdf) course at [CFG](https://codefirstgirls.com/) 
+- Finished with merit for an intensive [Software Engineering](https://github.com/agcdtmr/cfg_group_project/blob/main/Certificate%2012.04.23.pdf) and [React Native Mobile Development](https://github.com/agcdtmr/christmas-travel/blob/main/Certificate.pdf) course at [CFG](https://codefirstgirls.com/)
 - Part of [100Devs Agency](https://leonnoel.com/100devs/) (community-taught) Full-Stack Software Engineers
 - Exploring [Data](https://github.com/agcdtmr/data)
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
