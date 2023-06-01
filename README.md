@@ -13,7 +13,7 @@
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
 - Recommended online course: [Learning how to learn by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn)
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/)
-<!-- -  - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr): "A kata a day keeps the imposter syndrome away."  -->
+-  - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr): "A kata a day keeps the imposter syndrome away." 
 <!-- - Work with me. Reach out [here](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
 <!-- - Making a lot of mistakes [LeetCode](https://leetcode.com/anjdeitmer/) -->
 
