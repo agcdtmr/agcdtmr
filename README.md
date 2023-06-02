@@ -27,14 +27,14 @@ Ongoing:
 <!-- - [Job search web app](https://github.com/agcdtmr/didactic-journey) tools- themuse.com api, python, django, sqlite -->
 <!-- - [Tracker App:](https://github.com/agcdtmr/cfg-tracker-mobile-app) tools- react native, maps library and other ui library like paper, vector icons -->
 
-<!-- A mix of personal and freelance projects, so far
+A mix of personal and freelance projects, so far
 - [Spotify Data Analysis](https://github.com/agcdtmr/spotify-data)
 - [Anki-inspired Django App](https://github.com/agcdtmr/anki-inspired-app)
 - [Christmas Travel](https://github.com/agcdtmr/christmas-travel) Mobile App - made with React Native and UI libraries
 - [Jobs Search Engine](https://github.com/agcdtmr/cfg_group_project) focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
 - [Python small projects](https://github.com/agcdtmr/Python-Projects)
 - [SQL Trials](https://github.com/agcdtmr/sql-projects)
-- [More projects here](https://github.com/agcdtmr?tab=repositories) -->
+- [More projects here](https://github.com/agcdtmr?tab=repositories)
 
 
 <!-- ## ❤️‍🔥 I’m passionate about (in no particular order):
