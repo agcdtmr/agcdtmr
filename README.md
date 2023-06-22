@@ -19,14 +19,14 @@
 
 Ongoing: 
 - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr): "A kata a day keeps the imposter syndrome away." 
-- [100-hour project](https://github.com/agcdtmr/100hr-project-others)
+- 
 - [Unpaid work calculator website](https://github.com/agcdtmr/fictional-umbrella) collab with [Daniela](https://github.com/dadaniela) using html, vanilla javascript, css and [GitHub projects](https://github.com/users/agcdtmr/projects/4).
 <!-- - [Job search web app](https://github.com/agcdtmr/didactic-journey) tools- themuse.com api, python, django, sqlite -->
 <!-- - [Tracker App:](https://github.com/agcdtmr/cfg-tracker-mobile-app) tools- react native, maps library and other ui library like paper, vector icons -->
 
 A mix of personal and freelance projects, so far
 - Finished with merit for an intensive [Software Engineering](https://github.com/agcdtmr/cfg_group_project/blob/main/Certificate%2012.04.23.pdf) and [React Native Mobile Development](https://github.com/agcdtmr/christmas-travel/blob/main/Certificate.pdf) course at [CFG](https://codefirstgirls.com/)
-- Part of [100Devs Agency](https://leonnoel.com/100devs/) (community-taught) Full-Stack Software Engineers
+- [100-hour project](https://github.com/agcdtmr/100hr-project-others) of [100Devs Agency](https://leonnoel.com/100devs/) (community-taught) Full-Stack Software Engineers
 - Exploring [Data](https://github.com/agcdtmr/data)
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
 - [Spotify Data Analysis](https://github.com/agcdtmr/spotify-data)
