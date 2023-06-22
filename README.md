@@ -9,7 +9,7 @@
 - [Reading The World](https://agcdtmr.notion.site/My-Reading-Challenge-My-Favourite-Bookclubs-from-all-over-the-world-210f324ee10542738605c6eac6486c2c)
 - Recommended online course: [Learning how to learn by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn)
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/)
-- Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr): "A kata a day keeps the imposter syndrome away." 
+
 <!-- - Work with me. Reach out [here](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
 <!-- - Making a lot of mistakes [LeetCode](https://leetcode.com/anjdeitmer/) -->
 
@@ -18,6 +18,7 @@
 ## 🚧 Projects
 
 Ongoing: 
+- Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr): "A kata a day keeps the imposter syndrome away." 
 - [100-hour project](https://github.com/agcdtmr/100hr-project-others)
 - [Unpaid work calculator website](https://github.com/agcdtmr/fictional-umbrella) collab with [Daniela](https://github.com/dadaniela) using html, vanilla javascript, css and [GitHub projects](https://github.com/users/agcdtmr/projects/4).
 <!-- - [Job search web app](https://github.com/agcdtmr/didactic-journey) tools- themuse.com api, python, django, sqlite -->
