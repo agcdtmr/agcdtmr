@@ -9,13 +9,13 @@
 - [Reading The World](https://agcdtmr.notion.site/My-Reading-Challenge-My-Favourite-Bookclubs-from-all-over-the-world-210f324ee10542738605c6eac6486c2c)
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚀 Tech Starterkit
 - Motivated to gain new skills? Start at [Learning how to learn by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn)
 
 <!-- - Work with me. Reach out [here](https://www.canva.com/design/DAE_7ll36jo/rIxnIpS9fDgGNJOr9UYtqg/view?utm_content=DAE_7ll36jo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
 <!-- - Making a lot of mistakes [LeetCode](https://leetcode.com/anjdeitmer/) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚧 Projects
 
