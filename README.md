@@ -19,7 +19,6 @@
 
 Ongoing: 
 - Currently 6kyu on [Codewars](https://www.codewars.com/users/adtmr): "A kata a day keeps the imposter syndrome away." 
-- 
 - [Unpaid work calculator website](https://github.com/agcdtmr/fictional-umbrella) collab with [Daniela](https://github.com/dadaniela) using html, vanilla javascript, css and [GitHub projects](https://github.com/users/agcdtmr/projects/4).
 <!-- - [Job search web app](https://github.com/agcdtmr/didactic-journey) tools- themuse.com api, python, django, sqlite -->
 <!-- - [Tracker App:](https://github.com/agcdtmr/cfg-tracker-mobile-app) tools- react native, maps library and other ui library like paper, vector icons -->
