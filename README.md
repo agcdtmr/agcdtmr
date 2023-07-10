@@ -6,7 +6,7 @@
 - Bachelor of Science in Psychology
 - [Lifelong Learner](https://www.notion.so/agcdtmr/Lifelong-Learner-e0b374ab9f9b4c0180a445c505ee88b6?pvs=4)
 - [My tech books to read](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
-- [Reading The World](https://agcdtmr.notion.site/My-Reading-Challenge-My-Favourite-Bookclubs-from-all-over-the-world-210f324ee10542738605c6eac6486c2c)
+- [Reading The World](https://www.goodreads.com/user/show/166974341-a)
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
