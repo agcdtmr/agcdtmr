@@ -2,7 +2,6 @@
 
 ## 👩🏻‍💻 About Me
 
-- [Cloud Engineer Trainee](https://github.com/agcdtmr/techgrounds-anj-dtmr) at Techgrounds
 - Bachelor of Science in Psychology
 - [Lifelong Learner](https://www.notion.so/agcdtmr/Lifelong-Learner-e0b374ab9f9b4c0180a445c505ee88b6?pvs=4)
 - [My tech books to read](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
@@ -26,6 +25,7 @@ Ongoing:
 <!-- - [Tracker App:](https://github.com/agcdtmr/cfg-tracker-mobile-app) tools- react native, maps library and other ui library like paper, vector icons -->
 
 A mix of personal and freelance projects, so far
+- [Cloud Engineering Project](https://github.com/agcdtmr/techgrounds-anj-dtmr) at Techgrounds
 - Finished with merit for an intensive [Software Engineering](https://github.com/agcdtmr/cfg_group_project/blob/main/Certificate%2012.04.23.pdf) and [React Native Mobile Development](https://github.com/agcdtmr/christmas-travel/blob/main/Certificate.pdf) course at [CFG](https://codefirstgirls.com/)
 - [100-hour project](https://github.com/agcdtmr/100hr-project-others) of [100Devs Agency](https://leonnoel.com/100devs/) (community-taught) Full-Stack Software Engineers
 - Exploring [Data](https://github.com/agcdtmr/data)
