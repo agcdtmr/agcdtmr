@@ -3,7 +3,6 @@
 ## 👩🏻‍💻 About Me
 
 - Bachelor of Science in Psychology
-- [Lifelong Learner](https://www.notion.so/agcdtmr/Lifelong-Learner-e0b374ab9f9b4c0180a445c505ee88b6?pvs=4)
 - [My tech books to read](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - [Reading The World](https://www.goodreads.com/user/show/166974341-a)
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/)
@@ -80,6 +79,7 @@ A mix of personal and freelance projects, so far
 - Women wearables Tech
 - Cybersecurity
 - surprise me! -->
+
 
 <!-- ## ⌛ Spare time
 
