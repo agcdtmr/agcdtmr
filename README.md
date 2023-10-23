@@ -25,7 +25,7 @@ Ongoing:
 
 A mix of personal and freelance projects, so far
 - [Cloud Engineering Project](https://github.com/agcdtmr/techgrounds-anj-dtmr) at Techgrounds
-- Finished with merit award for an intensive [Software Engineering](https://github.com/agcdtmr/cfg_group_project/blob/main/Certificate%2012.04.23.pdf) and [React Native Mobile Development](https://github.com/agcdtmr/christmas-travel/blob/main/Certificate.pdf) course at [CFG](https://codefirstgirls.com/)
+- Finished with Merit award for an intensive [Software Engineering](https://github.com/agcdtmr/cfg_group_project/blob/main/Certificate%2012.04.23.pdf) and [React Native Mobile Development](https://github.com/agcdtmr/christmas-travel/blob/main/Certificate.pdf) course at [CFG](https://codefirstgirls.com/)
 - [100-hour project](https://github.com/agcdtmr/100hr-project-others) of [100Devs Agency](https://leonnoel.com/100devs/) (community-taught) Full-Stack Software Engineers
 - Exploring [Data](https://github.com/agcdtmr/data)
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
