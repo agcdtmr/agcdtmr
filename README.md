@@ -35,7 +35,7 @@ A mix of personal and freelance projects, so far
 - [Jobs Search Engine](https://github.com/agcdtmr/cfg_group_project) focused in UK using reed.uk api - made with Python, MySQL, Bootstrap for CSS, and HTML
 - [Python small projects](https://github.com/agcdtmr/Python-Projects)
 - [SQL Trials](https://github.com/agcdtmr/sql-projects)
-- [More projects here](https://github.com/agcdtmr?tab=repositories)
+- More projects [here](https://github.com/agcdtmr?tab=repositories)
 
 
 <!-- ## ❤️‍🔥 I’m passionate about (in no particular order):
