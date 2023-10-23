@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About Me
 
-- Bachelor of Science in Psychology
+- Bachelor of Science in Psychology graduate
 - [My tech books to read](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - [Reading The World](https://www.goodreads.com/user/show/166974341-a)
 <!-- - Let's connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/) -->
