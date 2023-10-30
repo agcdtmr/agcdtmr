@@ -20,7 +20,7 @@ A mix of personal and freelance projects, so far
 - [100-hour project](https://github.com/agcdtmr/100hr-project-others) of [100Devs Agency](https://leonnoel.com/100devs/) (community-taught) Full-Stack Software Engineers
 - Exploring [Data](https://github.com/agcdtmr/data)
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
-- [SQL Trials](https://github.com/agcdtmr/sql-projects)
+- [SQL](https://github.com/agcdtmr/sql-projects) Trials
 
 
 
