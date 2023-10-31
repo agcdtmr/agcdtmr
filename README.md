@@ -3,7 +3,7 @@
 ## 👩🏻‍💻 About Me
 
 - Bachelor of Science in Psychology
-- [My tech books to read](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
+- [Reading Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - [Reading The World](https://www.goodreads.com/user/show/166974341-a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
