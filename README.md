@@ -35,7 +35,7 @@ A mix of personal and freelance projects, so far
 - Tech development affecting societal evolution
 
 
-## ⌛ Spare time
+## ⌛ Making time for:
 
 - Learning culture and languanges
 
