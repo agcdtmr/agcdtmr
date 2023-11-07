@@ -10,7 +10,7 @@
 
 ## 🚀 Tech Starterkit
 - Motivated to gain new skills? Start at [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) by [Barbara Oakley](https://barbaraoakley.com/)
-- Change your life with [100Devs](https://leonnoel.com/100devs/) community
+- Change your life with [Leon Noel's](https://leonnoel.com/) [100Devs](https://leonnoel.com/100devs/) community
 
 
 ## 🚧 Projects
