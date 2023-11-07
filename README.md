@@ -1,19 +1,18 @@
 # Hallo! Kumusta?
 
 ## 👩🏻‍💻 About Me
-
 - Bachelor of Science in Psychology
 - [Reading Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - [Reading The World](https://www.goodreads.com/user/show/166974341-a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ## 🚀 Tech Starterkit
 - Motivated to gain new skills? Start at [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) by [Barbara Oakley](https://barbaraoakley.com/)
 
 
 ## 🚧 Projects
-
 A mix of personal and freelance projects, so far
 - Mini [coding challenges](https://github.com/agcdtmr/curly-octo-broccoli)
 - [Cloud Engineering Project](https://github.com/agcdtmr/techgrounds-anj-dtmr) at Techgrounds
@@ -24,8 +23,7 @@ A mix of personal and freelance projects, so far
 - [SQL](https://github.com/agcdtmr/sql-projects) Trials
 
 
-
-<!-- ## ❤️‍🔥 I’m passionate about (in no particular order):
+ ## ❤️‍🔥 I’m passionate about (in no particular order):
 - Diversity, Equity, and Inclusion
 - Learning
 - Psychology 
@@ -34,17 +32,10 @@ A mix of personal and freelance projects, so far
 - Reading
 - Mental Health
 - Data (especially about how datas of women are currently used, not at all used or ‘biasedly’ used)
-- Tech development affecting societal evolution -->
+- Tech development affecting societal evolution
 
 
-
-
-<!-- ## ⌛ Spare time
+## ⌛ Spare time
 
 - Learning culture and languanges
-- Journalling my [#365DaysOfCode](https://github.com/agcdtmr/365daysofcode) Roadmap
-- Adding decks to my Anki and active recalling -->
-<!---
-agcdtmr/agcdtmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
