@@ -24,7 +24,7 @@ A mix of personal and freelance projects, so far
 - [SQL](https://github.com/agcdtmr/sql-projects) Trials
 
 
- ## ❤️‍🔥 I’m passionate about (in no particular order):
+## ❤️‍🔥 I’m passionate about (in no particular order):
 - Diversity, Equity, and Inclusion
 - Learning
 - Psychology 
@@ -32,9 +32,8 @@ A mix of personal and freelance projects, so far
 - Community Building
 - Reading
 - Mental Health
-- Data (especially about how datas of women are currently used, not at all used or ‘biasedly’ used)
+- Data (especially about how datas of women are currently used, not at all used and ‘biasedly’ used)
 - Tech development affecting societal evolution
-
 
 ## ⌛ Making time for:
 
