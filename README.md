@@ -22,6 +22,7 @@ A mix of personal and freelance projects, so far
 - Exploring [Data](https://github.com/agcdtmr/data)
 - Learning [C](https://github.com/agcdtmr/exploring-c) to fulfill my curiosity
 - [SQL](https://github.com/agcdtmr/sql-projects) Trials
+- A piece of [Python](https://github.com/agcdtmr/learning-python-again)
 
 
 <!-- 
