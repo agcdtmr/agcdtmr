@@ -1,5 +1,11 @@
-# Hi! Kumusta?
+# Hallo! Kumusta?
 
+## 👩🏻‍💻 About Me
+- Bachelor of Science in Psychology
+
+## 🚀 Tech Starterkit
+- Motivated to gain new skills? Start at [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) by [Barbara Oakley](https://barbaraoakley.com/)
+- Change your life with [Leon Noel](https://leonnoel.com/)'s [100Devs](https://leonnoel.com/100devs/) community
 
 
 ## Volunteering
