@@ -26,6 +26,7 @@
 
 ## ⌛ Making time for:
 
+- People outside work
 - Reading
 - Learning culture and languanges
 
