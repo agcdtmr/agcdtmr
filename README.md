@@ -17,7 +17,7 @@
 - [Techlabs Rotterdam](https://techlabs.org/)
 - [Yugto Bookclub](https://substack.com/@yugtobookclub)
 
-## Learning publicly:
+## 📝 Learning publicly:
 
 - [WWCode Days of Code Challenge 2024 + Python](https://www.linkedin.com/posts/anjcalleja_github-agcdtmrwwcode-days-of-code-challenge-activity-7161348732716765185-Zo5V?utm_source=share&utm_medium=member_desktop)
 - [Configuration of a cloud-based environment on GCP](https://www.linkedin.com/posts/anjcalleja_techproject-gcp-cloud-activity-7163127536321826816-jdzi?utm_source=share&utm_medium=member_desktop).
