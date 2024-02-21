@@ -2,7 +2,8 @@
 
 ## 👩🏻‍💻 About Me
 - Bachelor of Science in Psychology
-- [Reading Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
+- Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
+- Writes [blog](https://anj.hashnode.dev/)
 
 
 ## 🚀 Tech Starterkit
