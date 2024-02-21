@@ -10,9 +10,11 @@
 - Change your life with [Leon Noel](https://leonnoel.com/)'s [100Devs](https://leonnoel.com/100devs/) community
 
 
-## Volunteering
+## 🌍 Community Leader at:
 
-- [2024: Unleashing Goals, Ambitions, and Dreams as a Woman in Tech](https://www.linkedin.com/posts/anjcalleja_womensupportingwomen-womenintech-techempowerment-activity-7160954169057562624-KN4A?utm_source=share&utm_medium=member_desktop)
+- [Rotterdam Women in Tech](https://www.meetup.com/nl-NL/rotterdam-women-in-tech/)
+- [Techlabs Rotterdam](https://techlabs.org/)
+- [Yugto Bookclub](https://substack.com/@yugtobookclub)
 
 ## Learning publicly:
 
