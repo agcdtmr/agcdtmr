@@ -5,17 +5,15 @@
 - Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - Writes [blog](https://anj.hashnode.dev/)
 
-
-## 🚀 Tech Starterkit
-- Motivated to gain new skills? Start at [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) by [Barbara Oakley](https://barbaraoakley.com/)
-- Change your life with [Leon Noel](https://leonnoel.com/)'s [100Devs](https://leonnoel.com/100devs/) community
-
-
-## 🌍 Community Leader at:
+### 🌍 Community Leader at:
 
 - [Rotterdam Women in Tech](https://www.meetup.com/nl-NL/rotterdam-women-in-tech/)
 - [Techlabs Rotterdam](https://techlabs.org/)
 - [Yugto Bookclub](https://substack.com/@yugtobookclub)
+  
+## 🚀 Tech Starterkit
+- Motivated to gain new skills? Start at [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) by [Barbara Oakley](https://barbaraoakley.com/)
+- Change your life with [Leon Noel](https://leonnoel.com/)'s [100Devs](https://leonnoel.com/100devs/) community
 
 ## 📝 Learning publicly:
 
