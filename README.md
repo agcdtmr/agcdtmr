@@ -8,7 +8,7 @@
 ### 🌍 Community Leader at:
 
 - [Rotterdam Women in Tech](https://www.meetup.com/nl-NL/rotterdam-women-in-tech/)
-- [Techlabs Rotterdam](https://techlabs.org/)
+- [Techlabs Rotterdam](https://www.linkedin.com/company/techlabs-rotterdam/)
 - [Yugto Bookclub](https://substack.com/@yugtobookclub)
   
 ## 🚀 Tech Starterkit
