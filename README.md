@@ -12,6 +12,7 @@
 - [Techlabs Rotterdam](https://www.linkedin.com/company/techlabs-rotterdam/)
 - [Yugto Bookclub](https://yugtobookclub.substack.com/)
 - [100 Days Of Cloud DevOps](https://github.com/agcdtmr/100DaysOfCloudDevOps)
+- [Women Who Code Days of Code Challenge 2024](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024)
   
 ## 🚀 Tech Starterkit
 - Motivated to gain new skills? Start at [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) by [Barbara Oakley](https://barbaraoakley.com/)
