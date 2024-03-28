@@ -56,4 +56,13 @@ A mix of personal and freelance projects, so far
 - Mental Health
 - Data (especially about how datas of women are currently used, not at all used and ‘biasedly’ used)
 - Tech development affecting societal evolution
+
+
+>> Goede beheersing van de Nederlandse taal (B2/C1 niveau)
+>> Writing documentation and technical blogs
+>> Role and growth of technology in societal growth
+>> Development of local businesses
+>> Community involvement and outreach
+>> Learning foreign languages
+
 -->
