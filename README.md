@@ -1,7 +1,7 @@
 # Hallo! Kumusta?
 
 ## 👩🏻‍💻 About Me
-- Finding my first role as Junior Cloud DevOps Engineer (all help welcome)
+- 2024: Finding my first role as Junior Cloud DevOps Engineer (all help welcome)
 - Bachelor of Science in Psychology
 - Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - Writes [blog](https://anj.hashnode.dev/)
