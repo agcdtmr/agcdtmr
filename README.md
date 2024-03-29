@@ -24,7 +24,7 @@
 
 - People outside work
 - Reading
-- Learning culture and languanges
+- Learning art, culture and languanges
 
 
 <!-- 
