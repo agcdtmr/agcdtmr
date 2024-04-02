@@ -1,7 +1,7 @@
 # Hallo! Kumusta?
 
 ## 👩🏻‍💻 About Me
-- Career switcher (from 2022)
+- Career switcher (2022)
 - Junior Cloud DevOps Engineer
 - Bachelor of Science in Psychology
 - Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
