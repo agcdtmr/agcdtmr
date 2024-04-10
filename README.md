@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About Me
 - Career switcher (2022)
-- Bachelor's degree in Psychology
+- Bachelor's Degree in Psychology
 - Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - Writes [blog](https://anj.hashnode.dev/)
 <!--  - Learning publicly [here](https://github.com/agcdtmr/learning-publicly) -->
