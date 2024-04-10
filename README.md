@@ -22,6 +22,7 @@
 
 ## ⌛ Making time for:
 
+- Learning [technology](https://github.com/agcdtmr/learning-publicly/blob/main/README.md)
 - Outdoor adventures
 - People outside work
 - Reading
