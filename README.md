@@ -22,6 +22,7 @@
 
 ## ⌛ Making time for:
 
+- Outdoor adventures
 - People outside work
 - Reading
 - Learning art, culture and languanges
