@@ -26,7 +26,7 @@
 - Outdoor adventures
 - People outside work
 - Reading
-- Learning art, culture and languanges
+- Art, culture and languanges
 
 
 <!-- 
