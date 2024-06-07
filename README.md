@@ -1,8 +1,7 @@
 # Hallo! Kumusta?
 
 ## 👩🏻‍💻 About Me
-- Career switcher (2022)
-- Bachelor's Degree in Psychology
+- Career switcher (2023)
 - Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - Writes [blog](https://anj.hashnode.dev/)
 <!--  - Learning publicly [here](https://github.com/agcdtmr/learning-publicly) -->
