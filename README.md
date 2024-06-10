@@ -15,6 +15,7 @@
 <!--   - [Women Who Code Days of Code Challenge 2024](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024)  -->
   
 ## 🚀 Tech Starterkit
+- DIY Hacks: [Switching Career to Tech](https://anj.hashnode.dev/diy-hacks-switching-career-to-tech)
 - Motivated to gain new skills? Start at [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) by [Barbara Oakley](https://barbaraoakley.com/)
 - Change your life with [Leon Noel](https://leonnoel.com/)'s [100Devs](https://leonnoel.com/100devs/) community
 
