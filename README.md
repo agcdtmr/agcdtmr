@@ -4,7 +4,6 @@
 - Career switcher (2022)
 - Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - Writes [blog](https://anj.hashnode.dev/)
-<!--  - Learning publicly [here](https://github.com/agcdtmr/learning-publicly) -->
 
 ### 🌍 Community Leader at:
 
@@ -12,7 +11,6 @@
 - [Techlabs Rotterdam](https://www.linkedin.com/company/techlabs-rotterdam/)
 - [Yugto Bookclub](https://yugtobookclub.substack.com/)
 - [100 Days Of Cloud DevOps](https://github.com/agcdtmr/100DaysOfCloudDevOps)
-<!--   - [Women Who Code Days of Code Challenge 2024](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024)  -->
   
 ## 🚀 Tech Starterkit
 - [Switching Career to Tech](https://anj.hashnode.dev/diy-hacks-switching-career-to-tech)
