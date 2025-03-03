@@ -2,8 +2,24 @@
 
 ## 👩🏻‍💻 About Me
 - Career switcher (2022)
+- Cloud DevOps Engineer
 - Writes [blog](https://anj.hashnode.dev/)
-- Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
+- 2025 Tech Stack:
+Programming Languages: Python, Groovy
+
+Tools & Platforms: Git, GitLab, Docker, Azure Data Studio, VSCode, Swagger API, GitHub co-pilot, ChatGPT, Unit Testing, Bash/Shell, Powershell
+
+Methodologies: Agile/Scrum, ITIL
+
+Front-End: HTML, Bootstrap 5, HTMX
+
+Back-End: Django, Django REST Framework
+
+Databases: MongoDB, Microsoft SQL Server, PostgreSQL
+
+DevOps & Cloud: Azure, Terraform, K8s, Jenkins
+
+Messaging & Task Queues: RabbitMQ, Celery, Redis
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,6 +39,7 @@
 
 ## ⌛ Making time for:
 
+- Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - People outside work
 - Learning [technology](https://github.com/agcdtmr/learning-publicly/blob/main/README.md)
 - Outdoor adventures
