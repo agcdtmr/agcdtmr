@@ -5,6 +5,9 @@
 - Writes [blog](https://anj.hashnode.dev/)
 - Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 🌍 Community Leader at:
 
 - [Rotterdam Women in Tech](https://www.meetup.com/nl-NL/rotterdam-women-in-tech/)
@@ -28,7 +31,6 @@
 
 <!-- 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🚧 Projects
