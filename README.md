@@ -5,8 +5,7 @@
 - Cloud DevOps Engineer
 - Writes [blog](https://anj.hashnode.dev/)
 - 2025 Tech, Tools & Platforms Stack: Python, Groovy, Azure, Terraform, K8s, Jenkins, Git, GitLab, Docker, Azure Data Studio, VSCode, Swagger API, GitHub co-pilot, ChatGPT, Unit Testing, Bash/Shell, Powershell, Agile/Scrum, ITIL, HTML, Bootstrap 5, HTMX, Django, Django REST Framework, MongoDB, Microsoft SQL Server, PostgreSQL, Messaging & Task Queues: RabbitMQ, Celery, Valkey
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🌍 Community Leader at:
