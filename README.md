@@ -2,8 +2,8 @@
 
 ## 👩🏻‍💻 About Me
 - Career switcher (2022)
-- Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - Writes [blog](https://anj.hashnode.dev/)
+- Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 
 ### 🌍 Community Leader at:
 
