@@ -4,22 +4,7 @@
 - Career switcher (2022)
 - Cloud DevOps Engineer
 - Writes [blog](https://anj.hashnode.dev/)
-- 2025 Tech Stack:
-Programming Languages: Python, Groovy
-
-Tools & Platforms: Git, GitLab, Docker, Azure Data Studio, VSCode, Swagger API, GitHub co-pilot, ChatGPT, Unit Testing, Bash/Shell, Powershell
-
-Methodologies: Agile/Scrum, ITIL
-
-Front-End: HTML, Bootstrap 5, HTMX
-
-Back-End: Django, Django REST Framework
-
-Databases: MongoDB, Microsoft SQL Server, PostgreSQL
-
-DevOps & Cloud: Azure, Terraform, K8s, Jenkins
-
-Messaging & Task Queues: RabbitMQ, Celery, Redis
+- 2025 Tech, Tools & Platforms Stack: Python, Groovy, Azure, Terraform, K8s, Jenkins, Git, GitLab, Docker, Azure Data Studio, VSCode, Swagger API, GitHub co-pilot, ChatGPT, Unit Testing, Bash/Shell, Powershell, Agile/Scrum, ITIL, HTML, Bootstrap 5, HTMX, Django, Django REST Framework, MongoDB, Microsoft SQL Server, PostgreSQL, Messaging & Task Queues: RabbitMQ, Celery, Valkey
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
