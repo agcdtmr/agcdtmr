@@ -4,9 +4,9 @@
 - Career switcher (2022)
 - Cloud DevOps Engineer (Data, AI and Cybersecurity interests me too)
 - Writes [blog](https://anj.hashnode.dev/)
-
+<!--
 ---------
-<!--  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=agcdtmr)](https://github.com/anuraghazra/github-readme-stats) -->
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=agcdtmr)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
