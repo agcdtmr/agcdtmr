@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About Me
 - Career switcher (2022)
-- Cloud DevOps Engineer (Data, AI and Cybersecurity interests me too)
+- AI-assisted Cloud DevOps Engineer (Data, AI and Cybersecurity interests me too)
 - Writes [blog](https://anj.hashnode.dev/)
 <!--
 ---------
