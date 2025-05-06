@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About Me
 - Career switcher (2022)
-- AI-assisted Cloud DevOps Engineer
+- AI-powered Cloud DevOps Engineer (Linux)
 - Interests: AI, Data, Cybersecurity, Automation, Quantum
 - Writes [blog](https://anj.hashnode.dev/)
 <!--
