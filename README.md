@@ -10,7 +10,7 @@
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=agcdtmr)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcdtmr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ### 🌍 Community Leader at:
@@ -28,9 +28,8 @@
 
 ## ⌛ Making time for:
 
-- Reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
+- Learnung and reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - People outside work
-- Learning [technology](https://github.com/agcdtmr/learning-publicly/blob/main/README.md)
 - Outdoor adventures
 - Art, culture, literature and languanges
 
