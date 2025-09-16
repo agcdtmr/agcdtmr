@@ -28,7 +28,7 @@
 
 ## ⌛ Making time for:
 
-- Learnung and reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
+- Learning and reading [Tech](https://github.com/agcdtmr/women-in-tech-books/blob/main/README.md)
 - People outside work
 - Outdoor adventures
 - Art, culture, literature and languanges
