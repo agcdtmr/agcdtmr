@@ -17,7 +17,6 @@
 
 - [Rotterdam Women in Tech](https://www.meetup.com/nl-NL/rotterdam-women-in-tech/)
 - [Techlabs Rotterdam](https://www.linkedin.com/company/techlabs-rotterdam/)
-- [Yugto Bookclub](https://yugtobookclub.substack.com/)
 - [100 Days Of Cloud DevOps](https://github.com/agcdtmr/100DaysOfCloudDevOps)
   
 ## 🚀 Tech Starterkit
