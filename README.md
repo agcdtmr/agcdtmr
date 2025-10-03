@@ -1,4 +1,4 @@
-# Hallo! Kumusta?
+
 
 ## 👩🏻‍💻 About Me
 - Career switcher (2022)
